@@ -43,7 +43,7 @@ public class Week2_Scanner
        System.out.println("Mean: " + mean);
        
        
-       // close when done
+       // close when done when using System.in or it cannot be reopened.
        scanner.close();
       
     	 	
